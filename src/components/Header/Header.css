@@ -1,0 +1,8 @@
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 22px;
+    padding: 22px;
+    background-color: aqua;
+    font-weight: 900;
+}

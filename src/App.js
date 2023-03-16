@@ -10,8 +10,7 @@ import Header from "./components/Header/Header";
 
 function App() {
    return (
-      <div className="App">
-         <h1>jdksdjslkfjsklj</h1>
+      <div className="body">
          <Header></Header>
          <Routes>
             <Route path="/" element={<Home/>}></Route>
